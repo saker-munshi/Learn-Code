@@ -2,4 +2,6 @@
 
 ## About 
 
-## 
+## Author
+
+## License
